@@ -1,0 +1,12 @@
+name: MusicBox
+version: '${version}'
+main: com.gitub.musicbox.MusicBox
+api-version: '1.21'
+prefix: MusicBox
+authors: [Koxek101]
+description: A plugin that adds a jukebox for players with a gui interface
+website: github.com/konek101
+commands:
+  musicbox:
+    description: Open the musicbox gui
+    usage: /musicbox
